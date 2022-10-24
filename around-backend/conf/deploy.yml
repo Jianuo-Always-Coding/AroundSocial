@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://10.138.0.2:9200"
+  username: "jianuo"
+  password: "123456"
+
+gcs:
+  bucket: "jianuo-bucket"
+
+token:
+  secret: "secret"
